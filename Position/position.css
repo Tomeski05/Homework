@@ -1,0 +1,70 @@
+.div {
+    position: relative;
+    background: rgb(0, 0, 0);
+    width: 300px;
+    height: 310px;
+    margin: auto;
+}
+
+.box1 {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 200px;
+    height: 200px;
+    background: seagreen;
+}
+
+.box2 {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 85px;
+    height: 85px;
+    background: tomato;
+}
+
+.box3 {
+    position: absolute;
+    top: 95px;
+    left: 5px;
+    width: 85px;
+    height: 110px;
+    background: yellow;
+}
+
+.box4 {
+    position: absolute;
+    top: 210px;
+    left: 5px;
+    width: 85px;
+    height: 95px;
+    background: olivedrab;
+}
+
+.box5 {
+    position: absolute;
+    top: 210px;
+    left: 95px;
+    width: 150px;
+    height: 95px;
+    background: limegreen;
+}
+
+.box6 {
+    position: absolute;
+    top: 210px;
+    left: 250px;
+    width: 45px;
+    height: 45px;
+    background: darkred;
+}
+
+.box7 {
+    position: absolute;
+    top: 260px;
+    left: 250px;
+    width: 45px;
+    height: 45px;
+    background: limegreen;
+}
