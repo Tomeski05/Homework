@@ -21,5 +21,5 @@ document.getElementById("buttonClickNo").addEventListener("click", function () {
 }, false)
 
 
-// Zdravo Filip, imam nekoja greska ama ne mozam da ja najdam, koga ke vnesam nesto vo poleto title ili author
+// Zdravo Darko, imam nekoja greska ama ne mozam da ja najdam, koga ke vnesam nesto vo poleto title ili author
 // vo console.log mi dava prazno mesto ili mi dava greska na 11 red, cannot access `User`
